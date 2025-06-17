@@ -1,2 +1,2 @@
-// You can add JavaScript later
-console.log("Website loaded successfully!");
+// script.js
+console.log("Baaziroo website is live!");
